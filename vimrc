@@ -26,3 +26,11 @@ set expandtab
 set shiftwidth=4
 set tabstop=4
 set autoindent
+
+" search word
+nnoremap * *N
+nnoremap g* g*N
+
+" select all
+nnoremap <C-a> ggVGo
+
