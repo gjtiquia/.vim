@@ -1,7 +1,9 @@
 " minimal vim config
 " by gjtiquia
 
-colorscheme habamax
+" disabling colorscheme makes vim respect light/dark mode by default
+" also follows ghostyy's colorscheme!
+"colorscheme habamax
 
 set nu
 set rnu
@@ -17,7 +19,7 @@ set ignorecase
 set splitright
 set splitbelow
 
-set cursorline
+"set cursorline
 
 set confirm
 
