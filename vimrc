@@ -29,6 +29,8 @@ set shiftwidth=4
 set tabstop=4
 set autoindent
 
+syntax on
+
 " search word
 nnoremap * *N
 nnoremap g* g*N
